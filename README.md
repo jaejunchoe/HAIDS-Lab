@@ -13,8 +13,11 @@ This repository is a shared space for project conducted in collaboration with HA
 ## Updated Record
 
 # 2024.12.23
-1. Uploaded the **'D-attn/D-attn.ipynb'** file. (Reference: [CNN-with-Dual-Local-and-Global-Attention](https://github.com/seongjunyun/CNN-with-Dual-Local-and-Global-Attention/tree/master?tab=readme-ov-file)) <br/>
+1. Uploaded the **'D-attn/Upload_D_attn_model.ipynb'** file. (Reference: [CNN-with-Dual-Local-and-Global-Attention](https://github.com/seongjunyun/CNN-with-Dual-Local-and-Global-Attention/tree/master?tab=readme-ov-file)) <br/>
 2. **Detailed explanations** regarding hyperparameter and the structure of the modal have been added. 
+
+# 2024.12.21
+Uploaded the **DeepCoNN/Upload_DeepCoNN.ipynb** and **Transnet/Upload_Transnet**, **Transnet/Upload_preprocess**
 
 # 2024.12.20
 Created a repositories.
