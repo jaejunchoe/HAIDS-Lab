@@ -13,7 +13,7 @@ This repository is a shared space for project conducted in collaboration with HA
 ## Updated Record
 
 # 2024.12.24
-- Uploaded the **'Upload_Unified_Preprocessing_Subscription Boxes Dataset.ipynb'** file.
+- Uploaded the **'Upload_Unified_Preprocessing_Subscription Boxes Dataset.ipynb'** file. <br/>
 (The embedding process is not included yet. This process is expected to be updated.)
 
 # 2024.12.23
