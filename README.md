@@ -10,7 +10,7 @@ This repository is a shared space for project conducted in collaboration with HA
 
 ## Updated Record
 # 2024.12.26
-- Uploaded the **'train, valid, test.csv'** file. <br/>
+- Uploaded the **'Dataset/train, valid, test.csv'** file. <br/>
 (The embedding process is not included yet. This process is expected to be updated.)
 
 # 2024.12.24
