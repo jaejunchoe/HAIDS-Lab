@@ -11,7 +11,7 @@ This repository is a shared space for project conducted in collaboration with HA
 ## Updated Record
 # 2024.12.26
 - Uploaded the **'Dataset/train, valid, test.csv'** file. <br/>
-(The embedding process is not included yet. This process is expected to be updated.)
+(The files are not datasets actually derived from the **Upload_Unified_Preprocessing_Subscription Boxes Dataset.ipynb** file but are datasets intended for learning purposes to understand the data structure.)
 
 # 2024.12.24
 - Uploaded the **'Upload_Unified_Preprocessing_Subscription Boxes Dataset.ipynb'** file. <br/>
