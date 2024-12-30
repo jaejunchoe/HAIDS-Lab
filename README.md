@@ -10,7 +10,7 @@ This repository is a shared space for project conducted in collaboration with HA
 
 ## Updated Record
 # 2024.12.27
-- If you want to run the TransNets model, you should execute the **'Transnet/Upload_preprocess'** file.
+- If you want to run the TransNets model, you should first execute the **'Transnet/Upload_preprocess'** file.
 
 # 2024.12.26
 - Uploaded the **'Dataset/train, valid, test.csv'** file. <br/>
