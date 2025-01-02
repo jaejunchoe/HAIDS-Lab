@@ -9,6 +9,10 @@ This repository is a shared space for project conducted in collaboration with HA
 <br/>
 
 ## Updated Record
+# 2025.01.02
+- Uploaded the **'D-attn/Upload_ver02_D_attn_model.ipynb'** file.
+(The existing D-attn model, **'D-attn/Upload_D_attn_model.ipynb'**, has been moved to the **'Past files folder'**)
+
 # 2024.12.27
 - If you want to run the TransNets model, you should first execute the **'Transnet/Upload_preprocess'** file.
 
