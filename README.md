@@ -25,6 +25,7 @@ URL: [glove.6B.zip link](https://nlp.stanford.edu/data/glove.6B.zip)
 - **'Transnet/Upload_Transnet.ipynb'**: Updated a modeling file for Transnet:
 <br/>
 
+
 `3) Past Files Folder`<br/>
 - **'Past files folder'**: All previously existing files have been moved to the 'Past files folder' to accommodate the updated versions. Files are categorized according to their respective models.
 <br/>
