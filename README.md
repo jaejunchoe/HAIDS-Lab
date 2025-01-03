@@ -26,7 +26,11 @@ URL: [glove.6B.zip link](https://nlp.stanford.edu/data/glove.6B.zip)
 <br/>
 
 `3) Past Files Folder`<br/>
-- All previously existing files have been moved to the **'Past files folder'** to accommodate the updated versions. Files are categorized according to their respective models.
+- **'Past files folder'**: All previously existing files have been moved to the 'Past files folder' to accommodate the updated versions. Files are categorized according to their respective models.
+<br/>
+
+`3) Visualized Framework`<br/>
+'**Preprocessing Framework.md.'**: The Processing Framework for the datasets of DeepCoNN & D-attn and Transnet has been visualized and updated.
 <br/>
 
 # 2025.01.02
