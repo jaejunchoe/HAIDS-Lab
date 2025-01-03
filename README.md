@@ -10,7 +10,24 @@ This repository is a shared space for project conducted in collaboration with HA
 
 ## Updated Record
 # 2025.01.03
+`1) Dataset`<br/>
+- **'Dataset/DeepCoNN & D-attn folder'**: Updated with the complete datasets (xlsx, json) for both DeepCoNN and D-attn, as well as the train (csv), valid (csv), and test (csv) files.
+- **'Dataset/Transnet folder'**: Updated with the complete datasets (xlsx, json) for Transnet, along with the train, valid, and test (csv) files.
+- **'Dataset folder'**: Updated with files required for preprocessing, including combined_word_emb(pkl), punctuation(txt), and stopword(txt).
+- **Download glove.6B.50d(txt)**: The file glove.6B.50d(txt) is too large to upload to GitHub. You can download it from the following link and locate the file: <br/>
+URL: [glove.6B.zip link](https://nlp.stanford.edu/data/glove.6B.zip)
+<br/>
 
+`2) Model`<br/>
+- **'DeepCoNN & D-attn/DeepConn_and_D_attn_Preprocessing_Subscription_Boxes_Dataset.ipynb'**: Updated a shared preprocessing file for DeepCoNN and D-attn
+- **'DeepCoNN & D-attn/Upload_ver02_DeepCoNN.ipynb'**, **'DeepCoNN & D-attn/Upload_ver02_D_attn_model.ipynb'**: Updated modeling files for DeepCoNN and D-attn:
+- **Transnet/Transnet_Preprocessing_Subscription_Boxes_Dataset.ipynb**: Updated a preprocessing file for Transnet:
+- **'Transnet/Upload_Transnet.ipynb'**: Updated a modeling file for Transnet:
+<br/>
+
+`3) Past Files Folder`<br/>
+- All previously existing files have been moved to the **'Past files folder'** to accommodate the updated versions. Files are categorized according to their respective models.
+<br/>
 
 # 2025.01.02
 - Uploaded the **'D-attn/Upload_ver02_D_attn_model.ipynb'** file. <br/>
