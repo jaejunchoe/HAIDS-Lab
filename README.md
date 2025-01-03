@@ -9,6 +9,9 @@ This repository is a shared space for project conducted in collaboration with HA
 <br/>
 
 ## Updated Record
+# 2025.01.03
+
+
 # 2025.01.02
 - Uploaded the **'D-attn/Upload_ver02_D_attn_model.ipynb'** file. <br/>
 (The existing D-attn model, **'D-attn/Upload_D_attn_model.ipynb'**, has been moved to the **'Past files folder'**)
