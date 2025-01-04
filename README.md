@@ -8,6 +8,10 @@ This repository is a shared space for project conducted in collaboration with HA
 <br/>
 
 ## Updated Record
+# 2025.01.04
+- **'import folder/..'**: Uploaded Python files for each model(DeepCoNN, Transnet, D-attn) along with a **'main file(main.ipynb)'** to implement and execute the models by importing the **'.py(model, utils, config)'** files.
+- **'비교파일_ver02'**: Uploaded a comparison analysis PowerPoint presentation detailing the parameters and hyperparameters from the research papers.
+
 # 2025.01.03
 `1) Dataset`<br/>
 - **'Dataset/DeepCoNN & D-attn folder'**: Updated with the complete datasets (xlsx, json) for both DeepCoNN and D-attn, as well as the train (csv), valid (csv), and test (csv) files.
