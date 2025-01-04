@@ -4,12 +4,11 @@ This repository is a shared space for project conducted in collaboration with HA
 
 ## Expected Update Content
 1. Analysis of the paper on [D-attn /  Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction](https://dl.acm.org/doi/10.1145/3109859.3109890).
-2. Modularization of each model
 <br/>
 
 ## Updated Record
 # 2025.01.04
-- **'import folder/..'**: Uploaded Python files for each model(DeepCoNN, Transnet, D-attn) along with a **'main file(main.ipynb)'** to implement and execute the models by importing the **'.py(model, utils, config)'** files.
+- **'import folder/..'**: Uploaded Python files for each model(DeepCoNN, Transnet, D-attn) along with a **'main file(main.ipynb)'** to implement and execute the models by importing the **'.py(model, utils, config)'** files.<br/>
 - **'비교파일_ver02'**: Uploaded a comparison analysis PowerPoint presentation detailing the parameters and hyperparameters from the research papers.
 
 # 2025.01.03
