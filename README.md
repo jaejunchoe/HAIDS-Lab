@@ -3,8 +3,7 @@ This repository is a shared space for project conducted in collaboration with HA
 
 
 ## Expected Update Content
-1. Analysis of the paper on [D-attn /  Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction](https://dl.acm.org/doi/10.1145/3109859.3109890).
-<br/>
+None.
 
 ## Updated Record
 # 2025.01.04
