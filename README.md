@@ -6,6 +6,9 @@ This repository is a shared space for project conducted in collaboration with HA
 None.
 
 ## Updated Record
+# 2025.02.01
+- **'import folder/..'**: Uploaded ipynb files(.ipynb files) for each model(DeepCoNN, Transnet, D-attn).
+
 # 2025.01.04
 - **'import folder/..'**: Uploaded Python files for each model(DeepCoNN, Transnet, D-attn) along with a **'main file(main.ipynb)'** to implement and execute the models by importing the **'.py(model, utils, config.py)'** files.<br/>
 - **'비교파일_ver02.pptx'**: Uploaded a comparison analysis PowerPoint presentation detailing the parameters and hyperparameters from the research papers.
