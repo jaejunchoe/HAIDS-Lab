@@ -8,6 +8,7 @@ None.
 ## Updated Record
 # 2025.02.01
 - **'import folder/..'**: Uploaded ipynb files(.ipynb files) for each model(DeepCoNN, Transnet, D-attn).
+- If you want 'dict.pkl' and 'word_emb.pkl' files for Transnet, please click [link](https://github.com/winterant/TransNets/tree/master/embedding) and download that files.
 
 # 2025.01.04
 - **'import folder/..'**: Uploaded Python files for each model(DeepCoNN, Transnet, D-attn) along with a **'main file(main.ipynb)'** to implement and execute the models by importing the **'.py(model, utils, config.py)'** files.<br/>
