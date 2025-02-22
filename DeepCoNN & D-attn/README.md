@@ -6,8 +6,8 @@
 # DeepCoNN
 
 If you want to learn about the concept and features of DeepCoNN, please click [this](https://github.com/jaejunchoe/DeepCoNN) <br/>
-Code Reference: (https://github.com/winterant/DeepCoNN)
+Code Reference: https://github.com/winterant/DeepCoNN
 
 
 # D-attn
-Code Reference: (https://github.com/winterant/TransNets)
+Code Reference: https://github.com/seongjunyun/CNN-with-Dual-Local-and-Global-Attention
