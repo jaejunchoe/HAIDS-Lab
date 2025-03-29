@@ -6,6 +6,9 @@ This repository is a shared space for project conducted in collaboration with HA
 None.
 
 ## Updated Record
+# 2025.03.29
+- **DeepCoNN & D-attn/Upload_ver03_DeepCoNN.ipynb**: Updated modeling files for DeepCoNN.
+
 # 2025.02.01
 - **'import folder/..'**: Uploaded ipynb files(.ipynb files) for each model(DeepCoNN, Transnet, D-attn).
 - If you want **'dict.pkl'** and **'word_emb.pkl'** files for Transnet, please click [link](https://github.com/winterant/TransNets/tree/master/embedding) and download that files.
